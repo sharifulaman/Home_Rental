@@ -53,5 +53,11 @@
 
 ---
 
-## 🏗️ Architecture
+## 🔧 Tech Stack
 
+- **Frontend**: Next.js, Tailwind CSS
+- **Backend**: Nest.js
+- **Authentication**: Email & Password based registration
+- **Deployment**: (To be added if deployed)
+
+---
