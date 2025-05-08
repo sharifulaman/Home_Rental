@@ -26,11 +26,6 @@
 - Save listings and browse filtered results
 - Contact owners and manage property information
 
----
-
-## 🌐 Live Preview
-
-🔗 _Coming Soon_
 
 ---
 
@@ -40,10 +35,10 @@
 ![Registration](./registation.png)
 
 ### 🏡 Home Page - Recent Listings
-![Home](./screencapture-localhost-3000-2025-05-08-21_29_26.png)
+![Home](./h.png)
 
 ### 📝 Property Details Page
-![Details](./screencapture-localhost-3000-property-1-2025-05-08-21_17_22.png)
+![Details](./0.png)
 
 ---
 
